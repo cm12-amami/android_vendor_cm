@@ -1,5 +1,8 @@
 PRODUCT_BRAND ?= cyanogenmod
 
+# Use pre-built Webview.apk (from cm-14.1)
+PRODUCT_PREBUILT_WEBVIEWCHROMIUM := yes
+
 ifdef CM_NIGHTLY
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=cyanogenmodnightly
