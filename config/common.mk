@@ -125,10 +125,14 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     Eleven \
     LockClock \
-    privacy-browser \
     CMHome \
     CyanogenSetupWizard \
     CMSettingsProvider
+
+# 'cm12-amami' packages
+PRODUCT_PACKAGES += \
+    privacy-browser \
+    privacy-friendly-netmonitor
 
 # CM Platform Library
 PRODUCT_PACKAGES += \
