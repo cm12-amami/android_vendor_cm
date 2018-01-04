@@ -25,6 +25,7 @@ BOARD_SEPOLICY_UNION += \
     livedisplay.te \
     mediaserver.te \
     netd.te \
+    netmonitor.te \
     property.te \
     recovery.te \
     shell.te \
