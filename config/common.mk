@@ -1,7 +1,10 @@
 PRODUCT_BRAND ?= cyanogenmod
 
-# Use pre-built Webview.apk (from cm-14.1)
+# Use pre-built Webview.apk (from lineage-15.1)
 PRODUCT_PREBUILT_WEBVIEWCHROMIUM := yes
+
+# Bromite Webview (override webview)
+PRODUCT_PACKAGES += bromite-webview
 
 ifdef CM_NIGHTLY
 PRODUCT_PROPERTY_OVERRIDES += \
