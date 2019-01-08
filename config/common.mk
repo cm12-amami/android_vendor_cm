@@ -59,6 +59,10 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/blacklist:system/addon.d/blacklist
 endif
 
+# Carrier Config/Overwrite
+PRODUCT_COPY_FILES += \
+    vendor/cm/spn-conf.xml:system/etc/spn-conf.xml
+
 # Signature compatibility validation
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/otasigcheck.sh:install/bin/otasigcheck.sh
