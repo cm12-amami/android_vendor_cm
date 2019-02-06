@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spnOverrides>
-  <spnOverride numeric="26203" spn="o2 - de+"/>
-  <spnOverride numeric="26205" spn="o2 - de+"/>
-  <spnOverride numeric="26207" spn="o2 - de+"/>
-  <spnOverride numeric="26208" spn="o2 - de+"/>
-  <spnOverride numeric="26211" spn="o2 - de+"/>
-  <spnOverride numeric="26212" spn="o2 - de+"/>
-  <spnOverride numeric="26220" spn="o2 - de+"/>
-  <spnOverride numeric="26277" spn="o2 - de+"/>
+  <spnOverride numeric="26203" spn="o2 - de"/>
+  <spnOverride numeric="26205" spn="o2 - de"/>
+  <spnOverride numeric="26207" spn="o2 - de"/>
+  <spnOverride numeric="26208" spn="o2 - de"/>
+  <spnOverride numeric="26211" spn="o2 - de"/>
+  <spnOverride numeric="26212" spn="o2 - de"/>
+  <spnOverride numeric="26220" spn="o2 - de"/>
+  <spnOverride numeric="26277" spn="o2 - de"/>
 </spnOverrides>
